@@ -27,8 +27,4 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
   instance:
-<<<<<<< HEAD
     prefer-ip-address: true
-=======
-    prefer-ip-address: true
->>>>>>> 750a163 (Updated yml file)
